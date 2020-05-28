@@ -1,0 +1,39 @@
+form {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+table {
+    position: absolute;
+    right: 150px;
+    top: 150px;
+}
+
+table, th, td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+th, td {
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    width: 200px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+
+
+
+
+
